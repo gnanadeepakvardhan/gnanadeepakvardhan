@@ -13,7 +13,6 @@
 - 👯 I’m looking to collaborate on **Open Source Projects, Web Apps, and AI-based Applications**  
 - 🤔 I’m looking for help with **Scaling Distributed Systems & Cloud Deployment**  
 - 💬 Ask me about **Frontend (React, JS), Backend (Node.js, Express, Databases), and Problem-Solving (DSA/Algorithms)**  
-- 📫 How to reach me: **gnanadeepakvardhan@gmail.com | [LinkedIn](https://linkedin.com/in/gnanadeepakvardhan)**  
 - 😄 Pronouns: **He/Him**  
 - ⚡ Fun fact: **I’ve solved 1100+ coding problems, and I still get excited every time I debug a single missing semicolon 😅**  
 
