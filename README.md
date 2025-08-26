@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 -->
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=gnanadeepakvardhan&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gnanadeepakvardhan&layout=compact&theme=tokyonight)
+
+
+![](https://komarev.com/ghpvc/?username=gnanadeepakvardhan&color=blue)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gnanadeepakvardhan&theme=dark)](https://git.io/streak-stats)
