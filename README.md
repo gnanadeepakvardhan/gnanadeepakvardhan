@@ -6,7 +6,6 @@
 ---
 ![](https://komarev.com/ghpvc/?username=gnanadeepakvardhan&color=blue)
 
-## 🚀 About Me  
 
 - 🔭 I’m currently working on **Full-Stack Web Development Projects (Node.js, React.js, MongoDB)**  
 - 🌱 I’m currently learning **Deep Learning, Distributed Systems, and Advanced Backend Development**  
