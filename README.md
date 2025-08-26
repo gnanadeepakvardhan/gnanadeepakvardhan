@@ -19,7 +19,7 @@
 ---
 
 ## 📬 Connect with me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/gnanadeepakvardhan)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](linkedin.com/in/gnana-deepak-vardhan-pillikandla/)  
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gnanadeepakvardhan@gmail.com)  
 
 
