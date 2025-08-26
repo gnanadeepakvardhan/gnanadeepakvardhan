@@ -24,34 +24,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gnanadeepakvardhan@gmail.com)  
 
 
-## ⚒️ Tech Stack  
-
-### 🖥️ Frontend:  
-HTML, CSS, Bootstrap, JavaScript, React.js  
-
-### ⚙️ Backend:  
-Node.js, Express.js, MongoDB  
-
-### 🗄️ Databases:  
-MySQL, SQLite  
-
-### 💻 Programming Languages:  
-Python, C, C++, Java  
-
-### 🔧 Tools:  
-Git, GitHub, Docker, AWS  
-
-### 🧠 Technical Competencies:  
-- **Object-Oriented Design**: Designing modular, maintainable, reusable code.  
-- **Algorithms & Data Structures**: Solving real-world problems with efficiency.  
-- **Distributed Systems**: Hands-on with building scalable and fault-tolerant systems.  
-- **Agile Methodology**: Iterative development, adapting quickly to requirements.  
-
-### 🤝 Soft Skills:  
-Leadership, Team Management, Strategic Communication, Decision Making Under Pressure.  
-
----
-
 ## 📊 GitHub Stats  
 
 ![Deepak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gnanadeepakvardhan&show_icons=true&theme=tokyonight)  
