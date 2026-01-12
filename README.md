@@ -1,4 +1,4 @@
- # Hi 👋, I'm P. Gnana Deepak Vardhan  
+ # Hi, I'm P. Gnana Deepak Vardhan  
 
 🌟 **Aspiring Software Developer | Full-Stack Developer | Problem Solver | Tech Enthusiast**  
 💡 Passionate about leveraging technology to solve real-world problems, building scalable applications, and constantly pushing the limits of what’s possible.  
